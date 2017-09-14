@@ -4,4 +4,5 @@ Cross-language easing library ported from C.J. Kimberlin's (@cjddmut) easing imp
 into different languages.
 
 Easing.py - Python 2.x-3.x port
+
 Easing.js - Javascript port
